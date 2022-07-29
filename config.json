@@ -1,0 +1,20 @@
+{
+  "ownerNumber": ["6285882817282@s.whatsapp.net"],
+  "ownerName": ["Riski Jakartans"],
+  "botName": "𝙼𝙴𝙸𝙺𝚈 𝙱𝙾𝚃",
+  "sessionName": "session",
+  "pathimg": "./storage/media/neobot.png",
+  "FakeNya": "NEOXY-TEAM ID © 2021",
+  
+  "apikey": {
+  "XteamKey": "YOUR_APIKEY",
+  "LeysKey": "IkyOgiwara"
+  },
+  
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}

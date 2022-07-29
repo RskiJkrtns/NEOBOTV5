@@ -1,0 +1,32 @@
+[
+{
+      "name": "Niat Sholat Ashar",
+      "arabic": "اُصَلِّى فَرْضَ الْعَصْرِاَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً ِللهِ تَعَالَى",
+      "latin": "Ushalli Fardhol 'Ashri Arba'a Raka'aatim Mustaqbilal Qiblati Adaa-an Lillaahi Ta'aala",
+      "terjemahan": "Aku Berniat Shalat Fardhu 'Ashar Empat Raka'at Menghadap Kiblat Karena Allah Ta'ala"
+},
+{
+      "name": "Niat Sholat Dzuhur",
+      "arabic": "اُصَلِّى فَرْضَ الظُّهْرِاَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً ِللهِ تَعَالَى",
+      "latin": "Ushalli Fardhodl Dhuhri Arba'a Raka'aatim Mustaqbilal Qiblati Adaa-an Lillaahi Ta'aala",
+      "terjemahan": "Aku Berniat Shalat Fardhu Dzuhur Empat Raka'at Menghadap Kiblat Karena Allah Ta'ala"
+},
+{
+      "name": "Niat Sholat Isya",
+      "arabic": "اُصَلِّى فَرْضَ الْعِشَاءِ اَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً ِللهِ تَعَالَى",
+      "latin": "Ushalli Fardhol Isyaa-i Arba'a Raka'aatim Mustaqbilal Qiblati Adaa-an Lillaahi Ta'aala",
+      "terjemahan": "Aku Berniat Shalat Fardhu Isya Empat Raka'at Menghadap Kiblat Karena Allah Ta'ala"
+},
+{
+      "name": "Niat Sholat Maghrib",
+      "arabic": "اُصَلِّى فَرْضَ الْمَغْرِبِ ثَلاَثَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً ِللهِ تَعَالَى",
+      "latin": "Ushalli Fardhol Maghribi Tsalaata Raka'aatim Mustaqbilal Qiblati Adaa-an Lillaahi Ta'aala",
+      "terjemahan": "Aku Berniat Shalat Fardhu Maghrib Tiga Raka'at Menghadap Kiblat Karena Allah Ta'ala"
+},
+{
+      "name": "Niat Sholat Subuh",
+      "arabic": "اُصَلِّى فَرْضَ الصُّبْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً ِللهِ تَعَالَى",
+      "latin": "Ushalli Fardhosh Shubhi Rok'ataini Mustaqbilal Qiblati Adaa-an Lillaahi Ta'aala",
+      "terjemahan": "Aku Berniat Shalat Fardhu Shubuh Dua Raka'at Menghadap Kiblat Karena Allah Ta'ala"
+}
+]
